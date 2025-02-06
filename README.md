@@ -23,7 +23,7 @@
 
 ```bash
 # リポジトリのクローン
-git clone https://github.com/yourusername/familychat.git
+git clone https://github.com/RT-art/FamilyChat.git
 
 # プロジェクトディレクトリに移動
 cd familychat
